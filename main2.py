@@ -109,7 +109,7 @@ color_pen = color
 while run:
     # Lectura de imagen from webcam
     ret , frame = cam.read() 
-    #frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+    frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     if reverse:
        frame = cv2.flip(frame, 1)
        #imgCanvas1= cv2.flip(board, 1)

@@ -7,3 +7,4 @@ numpy   >= 1.19.2
 Pillow ==8.2.0
 streamlit_webrtc==0.26.0
 typing_extensions==3.10.0.0
+pydub == 0.25.1

@@ -1,2 +1,2 @@
 # wcboard
-hand gesture detection to create a WebCamBoard
+Hand gesture detection to create a WebCamBoard
